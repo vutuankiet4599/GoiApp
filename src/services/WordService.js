@@ -1,4 +1,4 @@
-import { onValue, ref, set } from "firebase/database";
+import { ref, set } from "firebase/database";
 import { database } from "../configs/firebase";
 import { WORDS_STORAGE } from "@env";
 import { uid } from "uid";

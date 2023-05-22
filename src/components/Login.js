@@ -1,11 +1,6 @@
 import React, { useContext, useState } from "react";
 import { Button, Text, TextInput } from "@react-native-material/core";
-import {
-  ImageBackground,
-  SafeAreaView,
-  TouchableOpacity,
-  View,
-} from "react-native";
+import { ImageBackground, SafeAreaView, View } from "react-native";
 import { style } from "../styles/style";
 import { Icon } from "@react-native-material/core";
 import { AppContext } from "../providers/AppProvider";
