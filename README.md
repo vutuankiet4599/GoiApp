@@ -5,7 +5,8 @@
 Dùng npm để cài đặt (Hoặc là có thể là yarn...)
 
 ```bash
-npm i
+npm install -g expo-cli
+npm install
 ```
 
 Tạo file .env và copy tất cả các biến từ file .env.example
