@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "810522608314",
+    "project_id": "goiapp-94e05",
+    "storage_bucket": "goiapp-94e05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810522608314:android:00ba859b4e65c803e37883",
+        "android_client_info": {
+          "package_name": "vtk.goiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810522608314-v68uho4a7pp51dgbcqkusdt7g78q441r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6yiCX5OuzaFyW4s8p72IWZwsRcUxiVVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810522608314-v68uho4a7pp51dgbcqkusdt7g78q441r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

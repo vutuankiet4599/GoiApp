@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "GoiApp",
+    "name": "Goi App",
     "slug": "GoiApp",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -11,13 +11,13 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
     "android": {
+      "package": "vtk.goiapp",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"

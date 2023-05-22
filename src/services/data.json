@@ -1,0 +1,126 @@
+{
+  "words": [
+    {
+      "word": "a",
+      "definitions": [
+        "The first letter of the English alphabet.",
+        "Used to indicate an indefinite quantity or number."
+      ]
+    },
+    {
+      "word": "able",
+      "definitions": [
+        "Having the power or ability to do something.",
+        "Capable of being done."
+      ]
+    },
+    {
+      "word": "about",
+      "definitions": ["Near or around.", "Approximately."]
+    },
+    {
+      "word": "above",
+      "definitions": ["In a higher position than.", "Superior to."]
+    },
+    {
+      "word": "across",
+      "definitions": ["From one side to the other.", "So as to pass over."]
+    },
+    {
+      "word": "after",
+      "definitions": ["Coming after in time or order.", "In pursuit of."]
+    },
+    {
+      "word": "again",
+      "definitions": ["Once more.", "In addition."]
+    },
+    {
+      "word": "against",
+      "definitions": [
+        "In a position opposite to or facing.",
+        "In opposition to."
+      ]
+    },
+    {
+      "word": "all",
+      "definitions": ["The whole quantity or amount.", "Every one of a group."]
+    },
+    {
+      "word": "am",
+      "definitions": [
+        "The first person singular present tense of the verb to be.",
+        "Used to express existence."
+      ]
+    },
+    {
+      "word": "an",
+      "definitions": [
+        "A word used before a singular noun that begins with a vowel sound.",
+        "Used to indicate something that is not specified."
+      ]
+    },
+    {
+      "word": "and",
+      "definitions": [
+        "A coordinating conjunction used to join words, phrases, or clauses.",
+        "Used to indicate addition."
+      ]
+    },
+    {
+      "word": "any",
+      "definitions": [
+        "Used to refer to one or more people or things, without specifying which.",
+        "Used to indicate that something is possible."
+      ]
+    },
+    {
+      "word": "are",
+      "definitions": [
+        "The third person plural present tense of the verb to be.",
+        "Used to express existence."
+      ]
+    },
+    {
+      "word": "as",
+      "definitions": [
+        "A conjunction used to introduce a clause that explains or modifies something else.",
+        "Used to indicate similarity."
+      ]
+    },
+    {
+      "word": "at",
+      "definitions": [
+        "In or to a particular place.",
+        "Used to indicate the time of something."
+      ]
+    },
+    {
+      "word": "be",
+      "definitions": [
+        "The most common verb in the English language, used to indicate existence, occurrence, or possession.",
+        "Used to form the progressive tenses of other verbs."
+      ]
+    },
+    {
+      "word": "because",
+      "definitions": [
+        "A conjunction used to introduce a clause that gives a reason for something.",
+        "Used to indicate cause and effect."
+      ]
+    },
+    {
+      "word": "been",
+      "definitions": [
+        "The past participle of the verb to be.",
+        "Used to indicate a state of being."
+      ]
+    },
+    {
+      "word": "before",
+      "definitions": [
+        "In a previous time or place.",
+        "Used to indicate a prior event."
+      ]
+    }
+  ]
+}
