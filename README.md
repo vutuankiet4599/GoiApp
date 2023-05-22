@@ -24,5 +24,5 @@ Chạy câu lệnh sau
 expo-cli start --tunnel
 ```
 
-Tiếp đó nhấn w để chạy trên web.
-Chạy trên thiết bị android thật thì tải app Expo Go rồi scan mã QR
+- Tiếp đó nhấn w để chạy trên web.
+- Chạy trên thiết bị android thật thì tải app Expo Go rồi scan mã QR
